@@ -1,9 +1,10 @@
 ### 👨‍💻 About Me
 - Hi there, I'm matsuya-mo12.
 - I am studying programming now...
-- Learning: docker, kotlin, flutter and more
+- Learning: docker, kotlin, flutter, and more
 - I hate studying, but I do it anyway. Let's make the journey fun!
 - I study English every day using the green bird app🦜　—that’s the one thing I'm really proud of!
+- I'm new to this, so please help me out.
 <!--
 **matsuya-mo12/matsuya-mo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
